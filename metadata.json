@@ -1,0 +1,5 @@
+{
+  "name": "SalesInsight AI",
+  "description": "An intelligent sales analytics platform that automates the data cleaning, analysis, and visualization workflow using Gemini, simulating a Python-to-Power BI pipeline.",
+  "requestFramePermissions": []
+}
